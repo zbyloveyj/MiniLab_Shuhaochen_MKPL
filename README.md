@@ -1,14 +1,7 @@
 # MKPL: Multi-Kingdom Psychiatric Microbiome Landscape
-![Uploading image.png…]()
-
 <p align="center">
-  <img src="assets/MKPL_logo.png" width="320">
+  <img src="assets/MKPL_logo.png" width="350">
 </p>
-
-<p align="center">
-  <b>Multi-Kingdom Psychiatric Microbiome Landscape</b>
-</p>
-
 ## About MKPL
 
 **MKPL (Multi-Kingdom Psychiatric Microbiome Landscape)** is a research project developed to investigate the gut microbiome across major psychiatric disorders from a multi-kingdom and cross-disorder perspective. The current project focuses on major depressive disorder (MDD), bipolar disorder (BD), and schizophrenia (SZ), together with healthy controls.
