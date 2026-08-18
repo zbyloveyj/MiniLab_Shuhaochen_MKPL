@@ -1,4 +1,5 @@
 # MKPL: Multi-Kingdom Psychiatric Microbiome Landscape
+![Uploading image.png…]()
 
 <p align="center">
   <img src="assets/MKPL_logo.png" width="320">
